@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://Aha9125.github.io/
+> https://github.com/Aha9125
 
 :star: Star me on GitHub — it helps!
 
