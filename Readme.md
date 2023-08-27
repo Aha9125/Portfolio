@@ -14,13 +14,12 @@
 
 
 #### About Page
+![AboutPage](https://github.com/Aha9125/Portfolio/assets/143342988/1a6f47c7-1c16-4f88-a245-a60c9b0f93ac)
 
-![Uploading AboutPage.png…]()
 
 #### Projects Page
-  
-![Uploading ProjectPage.png…]()
-![Uploading ProjectPage.png…]()
+  ![ProjectPage](https://github.com/Aha9125/Portfolio/assets/143342988/1acdb127-4ec2-403d-b230-b0304ea28f1a)
+
 
 
 :star: Star me on GitHub — it helps!
