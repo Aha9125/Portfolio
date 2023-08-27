@@ -10,16 +10,17 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+![HomePage](https://github.com/Aha9125/Portfolio/assets/143342988/72c2f714-1993-4971-bf03-6bb019a7fc3c)
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
 
+![Uploading AboutPage.png…]()
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
   
+![Uploading ProjectPage.png…]()
+![Uploading ProjectPage.png…]()
 
 
 :star: Star me on GitHub — it helps!
